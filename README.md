@@ -1,2 +1,1 @@
-# tindog
-This is a personal project
+TinDog Starting Files

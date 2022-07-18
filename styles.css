@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Ubuntu&display=swap');
+
+body{
+    font-family: 'Montserrat';
+}
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+#heading-one{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
